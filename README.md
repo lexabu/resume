@@ -1,2 +1,2 @@
 # resume
-subdomain for hosting my resume @ resume.alexabushanab.com
+subdomain for hosting resume.alexabushanab.com
